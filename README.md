@@ -2,8 +2,8 @@
 
 ## Author 
 
-Manan Shah (19DCE087)
-Raj Patel (19DCE110)
+Manan Shah (19DCE087),
+Raj Patel (19DCE110),
 Yug Shah (19DCE131)
 
 ## Introduction
